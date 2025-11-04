@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "description": "This is a description for Product 1.",
+        "price": 25.00,
+        "image": "product1.jpg",
+        "category": "Category A"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "description": "This is another great product, Product 2.",
+        "price": 49.99,
+        "image": "product2.jpg",
+        "category": "Category B"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "description": "Introducing Product 3 with amazing features.",
+        "price": 19.95,
+        "image": "product3.jpg",
+        "category": "Category A"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "description": "Get your hands on Product 4 today!",
+        "price": 35.50,
+        "image": "product4.jpg",
+        "category": "Category B"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "description": "Product 5 - essential for everyone.",
+        "price": 59.00,
+        "image": "product5.jpg",
+        "category": "Category C"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "description": "Check out the features of Product 6.",
+        "price": 12.75,
+        "image": "product6.jpg",
+        "category": "Category A"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "description": "Product 7 - high quality and reliable.",
+        "price": 75.00,
+        "image": "product7.jpg",
+        "category": "Category C"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "description": "Discover the benefits of Product 8.",
+        "price": 42.00,
+        "image": "product8.jpg",
+        "category": "Category B"
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "description": "Product 9 - the perfect solution.",
+        "price": 29.99,
+        "image": "product9.jpg",
+        "category": "Category A"
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "description": "Experience the innovation with Product 10.",
+        "price": 65.00,
+        "image": "product10.jpg",
+        "category": "Category C"
+    },
+     {
+        "id": 11,
+        "name": "Product 11",
+        "description": "Another great item in our catalog.",
+        "price": 31.00,
+        "image": "product1.jpg",
+        "category": "Category B"
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "description": "Product 12 - designed for you.",
+        "price": 52.50,
+        "image": "product2.jpg",
+        "category": "Category A"
+    }
+]
